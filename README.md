@@ -1,0 +1,1 @@
+This is the second HTML file that i do. It's an exercise developed by Odin project. I hope to work a little more than my first HTML and also to explore more CSS. 
